@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/vassar/Documents/play/play-example-login/conf/application.conf,/home/vassar/Documents/play/play-example-login/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/vassar/Documents/play/play-example-login/conf/routes,/home/vassar/Documents/play/play-example-login/target/scala-2.10/classes/routes)[0m
